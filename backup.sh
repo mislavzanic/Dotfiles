@@ -2,8 +2,6 @@
 
 [[ -z ~/Dotfiles ]] && mkdir ~/Dotfiles
 
-[[ -z ~/Dotfiles/qtile ]] && cp -r ~/.config/qtile ~/Dotfiles/qtile
-[[ -z ~/Dotfiles/alacritty ]] && cp -r ~/.config/alacritty ~/Dotfiles/alacritty
 [[ -z ~/Dotfiles/suckless ]] && cp -r ~/.config/suckless ~/Dotfiles/suckless
 [[ -z ~/Dotfiles/shell ]] && cp -r ~/.config/shell ~/Dotfiles/shell
 [[ -z ~/Dotfiles/zsh ]] && cp -r ~/.config/zsh ~/Dotfiles/zsh
